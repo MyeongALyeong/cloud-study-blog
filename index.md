@@ -10,7 +10,6 @@ title: Home
 ---
 
 ## 📚 글 목록
-
-- [Week01: 클라우드 개요](Week01_Cloud_Basics.md)  
-- [Week02: 서비스 모델 (IaaS/PaaS/SaaS)](Week02_Cloud_Service_Models.md)  
+- [클라우드 컴퓨팅이란? ☁️](Day01_CloudComputing.md)
+- [클라우드 컴퓨팅의 유형 🌐](Day02_CloudComputingTypes.md)
 
